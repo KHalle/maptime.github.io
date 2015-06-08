@@ -1569,7 +1569,6 @@
         "location": "Taipei, Taiwan",
         "website": "http://maptime.io/taipei/",
         "github": "https://github.com/maptime/taipei/",
-        "twitter": "MaptimeTPE",
         "comingSoon": true,
         "organizers": [
           {
@@ -1609,5 +1608,27 @@
         ]
       }
     }
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Montreal, QC",
+        "title": "MaptimeMTL",
+        "twitter": "MaptimeMTL",
+        "organizers": [
+          {
+            "name": "Kim Halle",
+            "twitter": "kimhalle"
+          }
+        ],
+        "meetup": "http://www.meetup.com/maptime-MTL/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58,
+          45.51
+        ]
+      }
+    },
   ]
 }
